@@ -1,7 +1,8 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>Marijus Jalinskas built the Flashlight Mobile app as a free and ad-supported app. This SERVICE is provided by Marijus Jalinskas at no cost and is intended for use as is.</p>
+<p>Marijus Jalinskas built the <a href="https://play.google.com/store/apps/details?id=app.flashlight.torch.marijusj.flashlightmobile"
+                                              target="_blank"> Flashlight Mobile app</a> as a free app. This SERVICE is provided by Marijus Jalinskas at no cost and is intended for use as is.</p>
 <p>This page is used to inform website visitors regarding my policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
 <p>If you choose to use my Service, then you agree to the collection and use of information in
