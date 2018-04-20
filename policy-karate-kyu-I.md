@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>Marijus Jalinskas built the <a href="https://xxx"
+<p>Marijus Jalinskas built the <a href="https://play.google.com/store/apps/details?id=com.karate.marijus.kyokushinquiz"
                                               target="_blank"> Quiz Kyokushin I - Red & Blue belt Karate</a> as a free app. This SERVICE is provided by Marijus Jalinskas at no cost and is intended for use as is.</p>
 <p>This page is used to inform website visitors regarding my policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
