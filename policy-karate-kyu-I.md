@@ -2,7 +2,7 @@
 <body>
 <h2>Privacy Policy</h2>
 <p>Marijus Jalinskas built the <a href="https://play.google.com/store/apps/details?id=com.karate.marijus.kyokushinquiz"
-                                              target="_blank"> Quiz Kyokushin I - Red & Blue belt Karate</a> as a free app. This SERVICE is provided by Marijus Jalinskas at no cost and is intended for use as is.</p>
+                                              target="_blank"> Kyokushin Quiz - Learn Karate Syllabus</a> as a commercial app for use as is.</p>
 <p>This page is used to inform website visitors regarding my policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
 <p>If you choose to use my Service, then you agree to the collection and use of information in
@@ -12,8 +12,11 @@
 
 <p><strong>Information Collection and Use</strong></p>
 <p>At the time of writing the Privacy Policy the app does not collect any information, but in the future, for a better experience while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to users name or real name, location, pictures. The information that I may request is retained on your device and is not collected by me in any way</p>
-<p>The app uses third party services that may collect information used to identify you. You can learn more about AdMob service privacy policy here: <a href="https://www.google.com/intl/en/policies/privacy/"
+
+<!-- <p>The app uses third party services that may collect information used to identify you. You can learn more about AdMob service privacy policy here: <a href="https://www.google.com/intl/en/policies/privacy/"
                                               target="_blank">Google Privacy Policy</a>.</p>
+-->
+<p>The app uses third party GDPR compliant services for analytics purposes that may collect information used to identify you. You can learn more about these services privacy policy here: <a href="https://www.google.com/intl/en/policies/privacy/" target="_blank">Google Privacy Policy</a> and <a href="https://firebase.google.com/support/privacy/">Firebase Privacy and Security page</a> .</p>
 
 <p><strong>Log Data</strong></p>
 <p>I want to inform you that whenever you use my Service, in case of an error in the app I collect
